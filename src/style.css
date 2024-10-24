@@ -1,0 +1,39 @@
+.div{
+    border: 1px solid black;
+    width: 200px;
+    justify-content: center;
+    
+    
+}
+*{
+    justify-content: center;
+}
+
+
+.div1{
+    width: 60%;
+    height: 1000px;
+    border: 1px solid black;
+    justify-content: center;
+    
+}
+
+.div2{
+    display: flex;
+    justify-content: center;
+}
+
+.div5{
+    display: flex;
+    justify-content: center;
+}
+.div5 button{
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+}
+
+
+.btn{
+    margin-left: auto;
+}
